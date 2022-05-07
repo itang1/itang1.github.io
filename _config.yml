@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Irene Tang"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Irene Tang"
-description              : &description "Student at The University of Chicago"
-url                      : https://itang1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name
+description              : &description
+url                      : https://itang1.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "itang1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Irene Tang"
   avatar           : "profile.png"
-  bio              : "Student at The University of Chicago"
+  bio              : 
   location         : "Chicago, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=wl40x44AAAAJ"
   email            : "itang1@uchicago.edu"
   researchgate     :
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6585-5902"
   pinterest        :
   soundcloud       :
   stackoverflow    :
